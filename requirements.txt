@@ -1,0 +1,8 @@
+TTS==0.22.0
+soundfile>=0.12
+torch
+torchaudio
+torchvision
+jupyter
+ipython
+numpy
